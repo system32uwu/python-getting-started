@@ -156,3 +156,20 @@ And of course you can now access its properties, and methods:
 print(me.name)
 print(me.describePerson())
 ```
+
+# Run this project
+
+```bash
+git clone https://github.com/system32uwu/python-getting-started
+
+cd python-getting-started
+
+python src/someFile.py
+```
+
+# New to Git / GitHub?
+
+From [Wikipedia](https://en.wikipedia.org/wiki/Git "Wikipedia"):
+>"Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development(...)"
+
+[How to install Git](https://git-scm.com/download/ "How to install Git")
