@@ -1,6 +1,6 @@
 # Creating a python project
 
-NOTE: use Virtual environments only if you plan on using external modules, like Django or Flask, which require you to run ``pip install``. If you are not going to use external modules, you can just create a project with the following structure (the same one I used for this project):
+You can just create a project with the following structure (the same one I used for this project):
 
 ```
 getting-started-python
@@ -12,6 +12,7 @@ getting-started-python
 You want to use the "README.md" file to write down a project overview, and the required procedure for someone else to be able to run and use your project.  
 ______________________
 
+<span style="color:red">NOTE: This is not required to follow along</span> 
 If you want to add external modules to your project, you can do it with [pip](https://pip.pypa.io/en/stable/installing/ "pip").
 
 You can run ``pip install [package_name]`` to add a package to your project.
