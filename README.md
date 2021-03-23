@@ -6,8 +6,8 @@ NOTE: use Virtual environments only if you plan on using external modules, like 
 getting-started-python
 │ README.md  
 └─── src
-			│ someFile.py
-			│ anotherFile.py
+	│ someFile.py
+	│ anotherFile.py
 ```
 You want to use the "README.md" file to write down a project overview, and the required procedure for someone else to be able to run and use your project.  
 ______________________
@@ -115,7 +115,7 @@ A variable can of course be declared without type hinting, however in my persona
 
 # Classes in Python
 
-In case you don't know about Object Oriented Programming, you can check this source to know more about it.
+In case you don't know about Object Oriented Programming, you can check [this source](https://www.w3schools.com/python/python_classes.asp "this source") to know more about it.
 
 TL;DR:
 You can imagine a class as a prototype, that's intended to have certain properties, for example the prototype "Person", could have the following ones:
