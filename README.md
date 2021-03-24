@@ -12,7 +12,8 @@ getting-started-python
 You want to use the "README.md" file to write down a project overview, and the required procedure for someone else to be able to run and use your project.  
 ______________________
 
-<span style="color:red">NOTE: This is not required to follow along</span> 
+<span style="color:red">NOTE: This is not required to follow along.<span> 
+
 If you want to add external modules to your project, you can do it with [pip](https://pip.pypa.io/en/stable/installing/ "pip").
 
 You can run ``pip install [package_name]`` to add a package to your project.
